@@ -12,11 +12,11 @@
   - fixed nomenclature in main script
   -  listed diseases in training dataset
   - TO DO:
-    + listing age,sex,BMI and country
-    + organizing all metadata in clear output
+    + [x] listing age,sex,BMI and country
+    + [ ] organizing all metadata in clear output
 
 ### GMWI2:
   - fixed nomenclature in main script
   - TO DO:
-    + listing age,sex,BMI, diseases and country
-    + organizing all metadata in clear output
+    + [x] listing age,sex,BMI, diseases and country
+    + [ ] organizing all metadata in clear output
